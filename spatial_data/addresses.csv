@@ -1,0 +1,236 @@
+ed_run,ed_run_type,candidate,official_agent,party,address,geocode_method,latitude,longitude
+Agassiz,r,"CLAYTON, Liz",Henri Chatelain,gpm,"NW 23-7-8W, MUN. OF NORFOLK-TREHERNE, MB",manual/approx,49.589383,-98.457068
+Agassiz,r,"CLARKE, Eileen",Jodie Byram,pc,"54 7TH ST., GLADSTONE, MB",automated,50.231021,-98.9532261
+Agassiz,r,"LEGASPI, Kelly",Kevin Dearing,ndp,"50 HERRON ROAD, WINNIPEG, MB",automated,49.9571207,-97.1667977
+Agassiz,r,"SWANSON, Hector",Jason Nadeau,lib,"355 ISABEL ST., NEEPAWA, MB",automated,50.2271395,-99.4622814
+Assiniboia,u,"ANDERSON, Jeff",Jane Giesbrecht,lib,"53 LIPTON ST., WINNIPEG, MB",automated,49.8789319,-97.1739846
+Assiniboia,u,"DELAAT, John",Durrenda Delaat,gpm,"113 LANARK ST., WINNIPEG, MB",automated,49.87367,-97.197902
+Assiniboia,u,"JOHNSTON, Scott",J. Bryce Matlashewski,pc,"107 EMERALD GROVE DR., WINNIPEG, MB",automated,49.8907385,-97.2768725
+Assiniboia,u,"MCKELLEP, Joe",Bela Gyarmati,ndp,"110 TWAIN DR., WINNIPEG, MB",automated,49.8777923,-97.310347
+Borderland,r,"GUENTER, Josh",R. Don Esler,pc,"SW 10-2-3W, RHINELAND, MB",manual/approx,49.104616,-97.79541
+Borderland,r,"BRAUL, Loren",Wes Sawatzky,lib,"79 ALTBERGTHAL ST., RHINELAND, MB",automated,49.092158,-97.610288
+Borderland,r,"CRONK, Liz",Keith Doerksen,ndp,"138 GARFIELD STREET ST. S, WINNIPEG, MB",automated,49.8806028,-97.1776235
+Borderland,r,"GRAYDON, Clif",Glenn Reimer,Ind,"121 BRAD AVENUE, DOMINION CITY, MB",automated,49.1393722,-97.1544667
+Borderland,r,"HENRY, Ken",Edward Kidd,gpm,"186 BRAEMAR AVE., WINNIPEG, MB",automated,49.8776901,-97.1128952
+Brandon East,r,"ISLEIFSON, Len",Keith Sisson,pc,"449 LAURENCE CRES., BRANDON, MB",automated,49.8423879,-99.918479
+Brandon East,r,"LONGSTREET, Kim",Laurie Jackson,lib,"1403 8TH STREET, BRANDON, MB",automated,49.8285103,-99.9482576
+Brandon East,r,"PATTERSON, Lonnie",Hope Roberts,ndp,"1104 6TH STREET, BRANDON, MB",automated,49.833023,-99.946335
+Brandon West,r,"BROWN, Nick",Dave Federowich,ndp,"1400 PACIFIC AVE., BRANDON, MB",automated,49.8493312,-99.9575101
+Brandon West,r,"BROWN, Robert",Natalie Brown,gpm,"136 30TH ST, BRANDON, MB",automated,49.847638,-99.979112
+Brandon West,r,"FRANGI, Sunday",Richard  Davies,lib,"219 VICTORIA AVE E, BRANDON, MB",automated,49.8423895,-99.9355882
+Brandon West,r,"HELWER, Reg",Glenn Crook,pc,"49 WATERLOO CRES., BRANDON, MB",automated,49.8337906,-99.9861097
+Burrows,u,"BRAR, Diljeet",Pushpinder Khubbar,ndp,"39 MOSSELLE PLACE, WINNIPEG, MB",automated,49.9672064,-97.1673405
+Burrows,u,"BRAR, Jasmine",Harvey (Hardeepak) Brar,pc,"10 RED WING COVE, WINNIPEG, MB",automated,49.7813588,-97.1941969
+Burrows,u,"GILL, Sarb",Myrna Ong,lib,"103 MORAVA WAY, WINNIPEG, MB",automated,49.9668437,-97.1833237
+Burrows,u,"PANGILINAN, Edda",Nezaida Ocampo,mbfwd,"4355 HENDERSON HWY, ST. CLEMENT, MB",automated,50.026182,-97.021815
+Concordia,u,"ALBO, Maria",Lisa Albo,lib,"26 DROBOT PLACE, WINNIPEG, MB",automated,49.9403645,-97.0405877
+Concordia,u,"FRANK, Andre",Lydia MacLean,pc,"31 TANYA CRES., WINNIPEG, MB",automated,49.9288765,-97.0554341
+Concordia,u,"WIEBE, Matt",James Still,ndp,"11 WALTER COPP CRES., WINNIPEG, MB",automated,49.9236226,-97.068996
+Dauphin,r,"MICHALESKI, Brad",Lora Beyette,pc,"118103 142N SW 29-24-20 W, DAUPHIN, MB",manual/approx,51.096944,-100.242094
+Dauphin,r,"SCHELLER, Darc",Curtis  Kaleta,ndp,"101 1ST AVENUE SE, SIFTON, MB",automated,51.3610952,-100.1481156
+Dauphin,r,"SCOFIELD–SINGH, Cathy",Sebin Sebastian,lib,"613 PARK AVE., STE ROSE DU LAC, MB",automated,51.0601543,-99.5182257
+Dawson Trail,r,"ASHER, Echo",Leo Van Den Bussche,ndp,"759 MULVEY AVE., WINNIPEG, MB",automated,49.8677153,-97.1543261
+Dawson Trail,r,"LAGASSÉ, Bob",Ted Schellenberg,pc,"26 SECOND AVE. N, LANDMARK, MB",automated,49.6755793,-96.8247315
+Dawson Trail,r,"RIVARD, Robert",Armand Poirier,lib,"2305 DAWSON ROAD, DUFRESNE, MB",automated,49.7305788,-96.748221
+Elmwood,u,"DUBON, Mayra",Victor Ramirez,pc,"136 EADE CR., WINNIPEG, MB",automated,49.9362821,-97.0672868
+Elmwood,u,"GEDDERT, Nicolas",Grant Sharp,gpm,"821 ST. PAUL AVE., WINNIPEG, MB",automated,49.8881575,-97.1705752
+Elmwood,u,"LOMBANA, German",Genoveva del Pilar Bustamante Rojas,cpc-m,"317 DUNROBIN AVE., WINNIPEG, MB",automated,49.9276508,-97.0971913
+Elmwood,u,"MALOWAY, Jim",Randal  Schulz,ndp,"268 GLENWOOD CRES., WINNIPEG, MB",automated,49.9181726,-97.1216197
+Elmwood,u,"WOLFROM, Regan",Bev McIntyre,lib,"337 COLVIN AVE., WINNIPEG, MB",automated,49.9336304,-97.0915548
+Flin Flon,r,"WRIDE, Theresa",Walter Daudrich,pc,"14-66-29 W, FLIN FLON, MB",manual/approx,54.774117,-101.8704
+Flin Flon,r,"LINDSAY, James",Diane Lindsay,lib,"328 SHERRITT AVE., LYNN LAKE, MB",automated,56.8476136,-101.0529191
+Flin Flon,r,"LINDSEY, Tom",Greg Bauman,ndp,"11 BAY AVE., FLIN FLON, MB",automated,54.768226,-101.865904
+Flin Flon,r,"MURNICK, Saara",Lauraine Bellisle,gpm,"97 MINNOW AVE., CRANBERRY PORTAGE, MB",automated,54.5842146,-101.3674821
+Fort Garry,u,"COOKE, Nancy",Richard Pinchin,pc,"119 RAVINE DR., WINNIPEG, MB",automated,49.8166324,-97.1362797
+Fort Garry,u,"FENNESSY, Casey",Scarlett Williamson,gpm,"910 WICKLOW PL, WINNIPEG, MB",automated,49.840905,-97.143124
+Fort Garry,u,"LARKINS, Craig",Chris Dalgarno,lib,"478 KYLEMORE AVE., WINNIPEG, MB",automated,49.8628257,-97.1343084
+Fort Garry,u,"WASYLIW, Mark",Kathy Heppner,ndp,"160 KINGSWAY AVE., WINNIPEG, MB",automated,49.8727551,-97.1670154
+Fort Richmond,u,"GUILLEMARD, Sarah",Dana Chudley,pc,"732 TOWNSEND AVE., WINNIPEG, MB",automated,49.799952,-97.138309
+Fort Richmond,u,"NAGRA, Tanjit",Gordon Chandler,lib,"33 KILLARNEY AVE., WINNIPEG, MB",automated,49.7902273,-97.1554646
+Fort Richmond,u,"PROULX, Cameron",Grant Sharp,gpm,"1428 MARS DR., WINNIPEG, MB",automated,49.8424993,-97.1639184
+Fort Richmond,u,"WONG, George",Muninder Sidhu,ndp,"26 BRIAN MONKMAN BAY, WINNIPEG, MB",automated,49.8278194,-97.061705
+Fort Rouge,u,"BEDDOME, James",Douglas Tingey,gpm,"563 ROSEDALE AVE., WINNIPEG, MB",automated,49.856893,-97.142752
+Fort Rouge,u,"FRIESEN, Cyndy",Valerie Gilroy,lib,"254 GIESBRECHT ST., STEINBACH, MB",automated,49.5236413,-96.6975221
+Fort Rouge,u,"HEBERT, Bradley",Melissa Kennedy,mbfwd,"376 OSBORNE ST, WINNIPEG, MB",automated,49.8712997,-97.1386828
+Fort Rouge,u,"KINEW, Wab",Muninder Sidhu,ndp,"127 HARROW ST., WINNIPEG, MB",automated,49.8714933,-97.1664843
+Fort Rouge,u,"MCCRACKEN, Michael",Moe Salaam,mf,"115 CLARKE ST., WINNIPEG, MB",automated,49.880702,-97.138701
+Fort Rouge,u,"NABESS, Edna",Vaughan Crawford,pc,"167 ACADEMY RD, WINNIPEG, MB",automated,49.8750838,-97.1676321
+Fort Whyte,u,"BRUSKE, Beatrice",Kevin Dearing,ndp,"1029 SCURFIELD BLVD., WINNIPEG, MB",automated,49.8087906,-97.2124037
+Fort Whyte,u,"CAMPBELL, Sara",Gloria Sisson,gpm,"92 TANGLE RIDGE CRESCENT, WINNIPEG, MB",automated,49.8248226,-97.1812519
+Fort Whyte,u,"HOLENSKI, Jason",Moe Salaam,mf,"116-721 STERLING LYON PARKWAY, WINNIPEG, MB",automated,49.8456064,-97.2190057
+Fort Whyte,u,"MORIN, Darrel",Siddeek Ali,lib,"306 PROVENCHER BLVD, WINNIPEG, MB",automated,49.8933986,-97.1158021
+Fort Whyte,u,"PALLISTER, Brian",Jon Lamb,pc,"761 WELLINGTON CRES., WINNIPEG, MB",automated,49.875377,-97.171964
+Interlake-Gimli,r,"HARFIELD, Dwight",Dirk Hoeppner,gpm,"5172 HIGHWAY #9, ST. ANDREWS, MB",manual/approx,50.036759,-97.03517
+Interlake-Gimli,r,"BOURGEOIS, Mary Lou",Cecilia  Connelly,lib,"555 ST. MARY AVE., WINNIPEG, MB",automated,49.8892875,-97.1523577
+Interlake-Gimli,r,"JOHNSON, Derek",Abe Reimer,pc,"1 SOUTHSHORE DR., ST. LAURENT, MB",automated,50.452259,-97.9813549
+Interlake-Gimli,r,"PINSENT, Sarah",Stephen Troubridge,ndp,"21 MIDDLE DRIVE, WINNIPEG BEACH, MB",automated,50.4950619,-96.9714874
+Keewatinook,r,"BUSHIE, Ian",Tim Johnson,ndp,"HOUSE 426, WANIPIGOW, MB",manual/approx,51.192476,-96.302827
+Keewatinook,r,"HARPER, Jason",Gary Wood,lib,"HOUSE #458, ST. THERESA POINT, MB",manual/approx,53.829168,-94.852349
+Keewatinook,r,"FLETT, Arnold",Larry Monias,pc,"HOUSE 8K 31, GARDEN HILL, MB",manual/approx,53.870913,-94.651987
+Kildonan-River East,u,"BRAUN, Kathryn",Douglas Simpson,lib,"110 NORTH HILL DRIVE, EAST ST. PAUL, MB",automated,49.9896817,-97.0350317
+Kildonan-River East,u,"COX, Cathy",Rudy Van Goor,pc,"27 JOHN HUYDA DR., WINNIPEG, MB",automated,49.9423249,-97.039786
+Kildonan-River East,u,"MACDONALD, Elliot",Eugene Szach,ndp,"341 SCOTIA ST., WINNIPEG, MB",automated,49.9340382,-97.1131049
+Kirkfield Park,u,"BAYOMI, Dennis",Dirk Hoeppner,gpm,"5 THACKERAY AVE., WINNIPEG, MB",automated,49.8702759,-97.2922844
+Kirkfield Park,u,"FIELDING, Scott",Andy McMaster,pc,"253 LINDENWOOD DRIVE EAST, WINNIPEG, MB",automated,49.8301883,-97.1882289
+Kirkfield Park,u,"MORTON, Kurt",Nicholas Noonan,ndp,"637 VALOUR RD., WINNIPEG, MB",automated,49.8848639,-97.1887136
+Kirkfield Park,u,"NATHANIEL, Ernie",Lynnette Nathaniel,lib,"15 BRAESIDE PLACE, WINNIPEG, MB",automated,49.7742243,-97.1730295
+La Verendrye,r,"SMOOK, Dennis",Konrad Narth,pc,"225 PR 201 E, VITA, MB",manual/approx,49.133359,-96.563647
+La Verendrye,r,"MCGEE, Erin",Leo Van Den Bussche,ndp,"21072 MUN 50 N, ILE DES CHENES, MB",manual/approx,49.738679,-96.972552
+La Verendrye,r,"MITCHELL, Lorena",Ernesto Torresmalaga,lib,"92 BEAU SAPIN ST., MARCHAND, MB",automated,49.4538422,-96.4056587
+Lac du Bonnet,r,"HAYWARD, Terry",Bruce Waite,lib,"64021 PR 302, SPRINGFIELD, MB",manual/approx,49.931023,-96.499514
+Lac du Bonnet,r,"EWASKO, Wayne",Philip  Stairs,pc,"SW 3-13-7E MILE 39E #72067, BROKENHEAD, MB",manual/approx,50.062722,-96.56177
+Lac du Bonnet,r,"KLASSEN, Sidney",Karl Gowenlock,ndp,"HOUSE 421, BLOODVEIN, MB",automated,51.785107,-96.69231
+Lagimodiere,u,"CROSS, Billie",Leanne Yeo,ndp,"2 ROYAL SALINGER RD., WINNIPEG, MB",automated,49.8558588,-97.0885948
+Lagimodiere,u,"KRUL, Bob",Brooklyn Krul,gpm,"145 RAMBLEWOOD RD. N, WINNIPEG, MB",automated,49.8053529,-97.049382
+Lagimodiere,u,"SACHER, Jake",Charlene Sacher,lib,"36 VICTORY PLACE,  WINNIPEG, MB",automated,49.8599449,-97.1087913
+Lagimodiere,u,"SMITH, Andre",Gary Smith,pc,"232 BONAVENTURE DR. E, WINNIPEG, MB",automated,49.8261936,-97.0620686
+Lakeside,r,"REGELSKY, Ilsa",Cecilia Connelly,lib,"0132E 81N, ARGYLE, MB",manual/approx,50.196983,-97.454989
+Lakeside,r,"EICHLER, Ralph",Barry Jeske,pc,"40 THIRD STREET S.E., TEULON, MB",automated,50.3877217,-97.256643
+Lakeside,r,"RUGG, Dan",Janice Chase,ndp,"34 ELIE STREET WEST, ELIE, MB",automated,49.901007,-97.7605411
+McPhillips,u,"CACAYURAN, John",Michelle Reader,lib,"167 NEWTON AVE., WINNIPEG, MB",automated,49.9426739,-97.110885
+McPhillips,u,"MARTIN, Shannon",Maxine Diamond,pc,"42 RIVER HEIGHTS DR., LA SALLE, MB",automated,49.698149,-97.257492
+McPhillips,u,"MCFARLANE, Greg",Wendy Carriere,ndp,"6 RIGA COVE, WINNIPEG, MB",automated,49.9681349,-97.1770144
+McPhillips,u,"SMITH, Jason",Dirk Hoeppner,gpm,"280 ALFRED AVE., WINNIPEG, MB",automated,49.9159807,-97.133361
+McPhillips,u,"WHEELER, Dave",Mohamed Salaam,mf,"10 SHANNON BAY, WEST ST. PAUL, MB",automated,49.9673838,-97.0720529
+Midland,r,"FRIESEN, Cindy",Kevin Dearing,ndp,"337 BONNER AVE., WINNIPEG, MB",automated,49.9528393,-97.0604579
+Midland,r,"PEDERSEN, Blaine",Leslie Wishart,pc,"63 SOUTHVIEW ST., ELM CREEK, MB",automated,49.6736793,-97.9995894
+Midland,r,"SISLER, Julia",Wendy Bloomfield,lib,"137 SHERBROOK ST., WINNIPEG, MB",automated,49.8828866,-97.1592105
+Morden-Winkler,r,"DALLOO, Robin",Kevin Dearing,ndp,"35 WEATHERSTONE PLACE, WINNIPEG, MB",automated,49.8552939,-97.0812493
+Morden-Winkler,r,"FRIESEN, Cameron",Robert Friesen,pc,"14 GLENWOOD DRIVE, MORDEN, MB",automated,49.1994876,-98.1101705
+Morden-Winkler,r,"MINTZ, David",Sam Dixon,lib,"254 KENASTON BLVD., WINNIPEG, MB",automated,49.8671864,-97.2052936
+Morden-Winkler,r,"URICHUK, Mike",Tim Hodge,gpm,"6 MAJESTIC CRESCENT, WINKLER, MB",automated,49.1906576,-97.9501417
+Notre Dame,u,"MARCELINO, Malaya",Reynaldo Sangalang,ndp,"166 MOONBEAM WAY, WINNIPEG, MB",automated,49.8327876,-97.0287063
+Notre Dame,u,"MARTIN, Donovan",LaToya Gibbons,lib,"107 CARSDALE DR., WINNIPEG, MB",automated,49.9602726,-97.1026471
+Notre Dame,u,"STREET, Marsha",Darrell Girardin,pc,"120 15TH STREET, BRANDON, MB",automated,49.847893,-99.9586421
+Notre Dame,u,"STURBY, Margaret",Jonathon Sturby,mbfwd,"5 PIONEERS TRAIL, LORETTE, MB",automated,49.7473478,-96.873341
+Notre Dame,u,"TAYLOR, Andre",Genoveva del Pilar Bustamante Rojas,cpc-m,"1141 SHERBURN ST., WINNIPEG, MB",automated,49.9040963,-97.1742626
+Notre Dame,u,"WILLARD, MJ",Abdelhady Elnagar,gpm,"600 DOVERCOURT DR., WINNIPEG, MB",automated,49.8206177,-97.1924341
+Point Douglas,u,"FAINMAN, Fagie",Genoveva del Pilar Bustamante Rojas,cpc-m,"260 VICTORIA CRESCENT, WINNIPEG, MB",automated,49.842033,-97.130398
+Point Douglas,u,"KESS, Jenn",Dirk Hoeppner,gpm,"280 ALFRED AVE., WINNIPEG, MB",automated,49.9159807,-97.133361
+Point Douglas,u,"REDMOND, Michele",Darrell  Girardin,pc,"126 TACHE AVE., WINNIPEG, MB",automated,49.8755368,-97.1227959
+Point Douglas,u,"SANDERSON, Richard",Rose Thomas,lib,"405 ARMSTRONG AVE., WINNIPEG, MB",automated,49.9471589,-97.1222831
+Point Douglas,u,"SMITH, Bernadette",Kathleen Lukas,ndp,"267 SOUTHALL DR., WINNIPEG, MB",automated,49.9488902,-97.1131163
+Point Douglas,u,"WENUIK, Micheal",Wayne Sturby,mbfwd,"6970 HENDERSON HWY, WINNIPEG, MB",automated,50.0845087,-96.9333963
+Portage la Prairie,r,"WISHART, Ian",Leslie Wishart,pc,"NW 30-12-6 70147 PR 240 N , PORTAGE LA PRAIRIE, MB",manual/approx,50.047307,-98.283475
+Portage la Prairie,r,"HUBAND, Charles",Sam Dixon,lib,"232 YALE AVE., WINNIPEG, MB",automated,49.8693511,-97.1692044
+Portage la Prairie,r,"PODOLECKI, Andre",Kevin Dearing,ndp,"437 SPRINGFIELD ROAD, WINNIPEG, MB",automated,49.9401488,-97.0758254
+Radisson,u,"HANSEN PRATT, Tanya",Gordon Pratt,lib,"166 RAVENHILL RD., WINNIPEG, MB",automated,49.9217447,-97.0615318
+Radisson,u,"RUNIONS, Carlianne",Christopher Runions,gpm,"544 BANNING ST., WINNIPEG, MB",automated,49.8910539,-97.172464
+Radisson,u,"SANDHU, Raj",Yadwinder Sandhu,ndp,"7 MIRAMONTE COVE, WINNIPEG, MB",automated,49.9478294,-97.0449077
+Radisson,u,"TEITSMA, James",Rudy Van Goor,pc,"10 ANGELA EVERTS DR., WINNIPEG, MB",automated,49.9092451,-97.0517454
+Red River North,r,"HNATIUK, Graham",Natuik Lori,gpm,"3850 MOWAT ROAD, EAST ST PAUL, MB",manual/approx,50.005646,-97.018187
+Red River North,r,"BURZUIK, Jocelyn",Moe Salaam,mf,"20028 HWY 519, SANDY HOOK, MB",manual/approx,50.536492,-96.995726
+Red River North,r,"NGO, Noel",Cecilia Connelly,lib,"256 MAGNUS AVE., WINNIPEG, MB",automated,49.9144344,-97.1334806
+Red River North,r,"PULLEN, Chris",Dawn Gates,ndp,"52 ALDER CRES., WEST PINE RIDGE, MB",automated,50.0070477,-96.9530131
+Red River North,r,"WHARTON, Jef",Carol-Anne Hainsworth,pc,"212 MAPLE AVE., WINNIPEG BEACH, MB",automated,50.5105173,-96.9733543
+Riding Mountain,r,"LOWE, Mary",Martin Finnie,gpm,"SE 10-12-23, KENTON, MB",manual/approx,49.994289,-100.535163
+Riding Mountain,r,"CHACUN, Wayne",William A. Nicholson,ndp,"266 GALT STREET, VIRDEN, MB",automated,49.8455014,-100.9282852
+Riding Mountain,r,"FLEURY, Jordan",Christa  Fleury,lib,"103 3RD ST. NE, MINNEDOSA, MB",automated,50.2517939,-99.8345072
+Riding Mountain,r,"NESBITT, Greg",Harold Reid,pc,"411 LAKE ST., SHOAL LAKE, MB",automated,50.4369994,-100.5930737
+Riel,u,"JOHNSTON, Neil",Wendy Bloomfield,lib,"503 RIVER ROAD, WINNIPEG, MB",automated,49.8177944,-97.1285703
+Riel,u,"MOYES, Mike",Andrew Walters,ndp,"8 GLENTHORNE CRES., WINNIPEG, MB",automated,49.8218828,-97.1146495
+Riel,u,"SCHELLENBERG, Roger",Frances Schellenberg,gpm,"62 HARRY COLLINS AVE., WINNIPEG, MB",automated,49.819465,-97.130679
+Riel,u,"SQUIRES, Rochelle",Brian Stepnuk,pc,"10 PORTSIDE DR., WINNIPEG, MB",automated,49.80588,-97.119366
+River Heights,u,"BOULTER, Susan",John Vandewater,pc,"231 BROCK STREET, WINNIPEG, MB",automated,49.8715871,-97.1882278
+River Heights,u,"GERRARD, Jon",Thomas Rempel-Ong,lib,"119 BROCK ST., WINNIPEG, MB",automated,49.8753515,-97.1878486
+River Heights,u,"NIEMCZAK, Jonathan",Bill Reid,ndp,"2001-160 SMITH ST., WINNIPEG, MB",automated,49.8897232,-97.1401387
+River Heights,u,"ZAHN, Nathan",Jeremy Zahn,gpm,"1389 KILDONAN DR., WINNIPEG, MB",automated,49.946802,-97.095603
+Roblin,r,"BAZAK, Michael",Carolyn Shimmin,lib,"75 MEADOWBANK RD., WINNIPEG, MB",automated,49.8193076,-97.2022023
+Roblin,r,"BRANDT–MURENZI, Sophie",Kevin Dearing,ndp,"745 WOLSELEY AVE., WINNIPEG, MB",automated,49.8806114,-97.162249
+Roblin,r,"DRIEDGER, Myrna",Catherine Cronin,pc,"183 BARKER BLVD., WINNIPEG, MB",automated,49.8687175,-97.3191567
+Roblin,r,"NICHOLS, Kevin",Dirk Hoeppner,gpm,"710 BUCKINGHAM RD., WINNIPEG, MB",automated,49.850913,-97.281025
+Rossmere,u,"BAZAN, Amanda",Dirk Hoeppner,gpm,"33 HARGRAVE ST., WINNIPEG, MB",automated,49.8852528,-97.1399821
+Rossmere,u,"MICKLEFIELD, Andrew",Barry Banek,pc,"126 MAHONEE DR., WINNIPEG, MB",automated,49.9297914,-97.0529673
+Rossmere,u,"OYELERU, Isaiah",Cecilia Connelly,lib,"170 WATT STREET, WINNIPEG, MB",automated,49.9095358,-97.1042282
+Rossmere,u,"REGIER, Andy",Allyson Regier,ndp,"151 LARCHDALE CRES., WINNIPEG, MB",automated,49.9370717,-97.0964732
+Seine River,u,"BLOOMFIELD, James",Wendy Bloomfield,lib,"807 LEMAY AVE., WINNIPEG, MB",automated,49.7690879,-97.1431899
+Seine River,u,"ISLAM, Durdana",Adeeb Zaman,ndp,"340 JOHN ANGUS DRIVE, WINNIPEG, MB",automated,49.78253,-97.183503
+Seine River,u,"LAMOUREUX, Bryanne",Diane Lamoureux,gpm,"32 EASTMOUNT DR., WINNIPEG, MB",automated,49.816009,-97.0860176
+Seine River,u,"MORLEY–LECOMTE, Janice",Ken Lee,pc,"1308 FORBES RD., WINNIPEG, MB",automated,49.784783,-97.080322
+Selkirk,r,"HILL, Tony",Terra Johnston,gpm,"399 CHALET BEACH RD., RM OF ST. ANDREWS, MB",automated,50.4172578,-96.9203569
+Selkirk,r,"LAGIMODIERE, Alan",Aaron  Kowalson,pc,"916 FERRY RD., EAST SELKIRK, MB",automated,50.1487217,-96.8449513
+Selkirk,r,"OBACH, Mitch",Greg Dewar,ndp,"204 OLIVER AVE., SELKIRK, MB",automated,50.1304248,-96.8867586
+Selkirk,r,"OLCEN, Philip",Christopher Dalgarno,lib,"672 WALKER AVE., WINNIPEG, MB",automated,49.8596062,-97.1417641
+Southdale,u,"CAIRNS, Robert",Justin Chan,mbfwd,"641 NIAKWA ROAD, WINNIPEG, MB",automated,49.856762,-97.093862
+Southdale,u,"DUNCANSON, Spencer",Sam Dixon,lib,"234 YALE AVE., WINNIPEG, MB",automated,49.869204,-97.169424
+Southdale,u,"GORDON, Audrey",Laura Marrast,pc,"11 CUMMINGS CR., WINNIPEG, MB",automated,49.8042514,-97.0924116
+Southdale,u,"MYSHKOWSKY, Karen",David Myshkowsky,ndp,"114 MOONBEAM WAY, WINNIPEG, MB",automated,49.8319742,-97.0273495
+Southdale,u,"QUINTON, Katherine",Dirk Hoeppner,gpm,"53 BERKSHIRE BAY, WINNIPEG, MB",automated,49.8715718,-97.0903735
+Springfield-Ritchot,r,"MIRWALDT, Sara",Scott Gray,lib,"33157 PARK RD., COOKS CREEK, MB",manual/approx,50.03307,-96.699564
+Springfield-Ritchot,r,"HAWGOOD, Garrett",Kate Hawgood,gpm,"12 HAWKSLEY GATE, NIVERVILLE, MB",automated,49.6013637,-97.0295626
+Springfield-Ritchot,r,"OKOI, Sam",Leo Van Den Bussche,ndp,"511 MEADOWLARK BLVD., ILE DES CHENES, MB",automated,49.7113653,-96.994778
+Springfield-Ritchot,r,"SCHULER, Ron",Cameron Hay,pc,"94 FOREST HILL RD., EAST ST. PAUL, MB",automated,49.9866368,-97.0297929
+Spruce Woods,r,"BEDDOME, Gordon",Margaret Stace,gpm,"SE-33-9-17W, RM OF CORNWALLIS, MB",manual/approx,49.786468,-99.721396
+Spruce Woods,r,"CULLEN, Cliff",Keith Sisson,pc,"11 COOPER BAY, GLENBORO, MB",automated,49.5602632,-99.2856687
+Spruce Woods,r,"HARCUS, Jennifer",Sam Dixon,lib,"254 KENASTON BLVD., WINNIPEG, MB",automated,49.8671864,-97.2052936
+Spruce Woods,r,"SHANNON, Justin",Brenda Patterson,ndp,"1915 RICHMOND AVE., BRANDON, MB",automated,49.8280986,-99.9646858
+St. Boniface,u,"FORTIER, Simone",Ryan Lafreniere,mbfwd,"253 LAURA STREET, WINNIPEG, MB",automated,49.9045347,-97.1446111
+St. Boniface,u,"HOSKINS, Megan",Darrell  Girardin,pc,"15 ARDEN AVE., WINNIPEG, MB",automated,49.8350122,-97.1154969
+St. Boniface,u,"JEANSON, Jaclyn",Luisa Sabourin,gpm,"42 INMAN AVE, WINNIPEG, MB",automated,49.8546266,-97.1081812
+St. Boniface,u,"LAMONT, Dougald",Kevin Gamble,lib,"318 WENTWORTH ST., WINNIPEG, MB",automated,49.8666348,-97.1578941
+St. Boniface,u,"SIMS, Laurissa",Allan Beach,ndp,"10 OAKLEIGH PLACE, WINNIPEG, MB",automated,49.8600008,-97.1109879
+St. James,u,"BUHSE, Jef",Glenda Rempel,gpm,"448 HARGRAVE ST., WINNIPEG, MB",automated,49.8977355,-97.1456051
+St. James,u,"HOHNE, Bernd",Phillip Buckingham,lib,"73 EGESZ STREET, WINNIPEG, MB",automated,49.9353126,-97.2158108
+St. James,u,"RICHARD, Michelle",Justin Zarnowski,pc,"38 HOME ST., WINNIPEG, MB",automated,49.8784118,-97.1689904
+St. James,u,"SALA, Adrien",Josefino Rarama,ndp,"297 MANDEVILLE ST., WINNIPEG, MB",automated,49.88106,-97.2315519
+St. Johns,u,"CALISTO–TAVARES, Eddie",Suzanna (Zanna) Joyce,lib,"131 VERONA DRIVE, WINNIPEG, MB",automated,49.9607325,-97.1658881
+St. Johns,u,"FONTAINE, Nahanni",Glen Jones,ndp,"Unlisted, Winnipeg, MB",automated,
+St. Johns,u,"LARKIN, Ray",Darrell Girardin,pc,"76 MCADAM AVE., WINNIPEG, MB",automated,49.9277395,-97.1160589
+St. Johns,u,"MCNEIL, Joshua",Dirk  Hoeppner,gpm,"250 FURBY ST., WINNIPEG, MB",automated,49.8862614,-97.1581129
+St. Vital,u,"ANDERSON, Jeffrey",Wendy Bloomfield,lib,"61 THORNDALE AVE., WINNIPEG, MB",automated,49.847855,-97.109809
+St. Vital,u,"DICKSON, Elizabeth",Judith Dickson,gpm,"300 BALFOUR AVE., WINNIPEG, MB",automated,49.860857,-97.127625
+St. Vital,u,"MAYER, Colleen",Lea Clarke,pc,"29 ELM PARK RD., WINNIPEG, MB",automated,49.857266,-97.1149347
+St. Vital,u,"MOSES, Jamie",Monica Girouard,ndp,"37 HULL AVE., WINNIPEG, MB",automated,49.850722,-97.109077
+St. Vital,u,"SHARMA, Baljeet",Deepshikha Sharma,Ind,"35 POPLARWOOD AVE., WINNIPEG, MB",automated,49.8437651,-97.1108056
+St. Vital,u,"SUTHERLAND, David",Moe Salaam,mf,"251 MAIN ST., LANDMARK, MB",automated,49.6744607,-96.8209454
+Steinbach,r,"GIBSON, Janine",Eric Rempel,gpm,"32045 ROAD 25 NORTH, GRUNTHAL, MB",manual/approx,49.370184,-96.746413
+Steinbach,r,"GOERTZEN, Kelvin",Douglas  Hamm,pc,"519 EVERGREEN AVE., STEINBACH, MB",automated,49.5251054,-96.6708399
+Steinbach,r,"JESSUP, Robert",Jonathan Kroeker,ndp,"8 WHITBY CRESCENT, STEINBACH, MB",automated,49.5264239,-96.7001678
+Steinbach,r,"KENSLEY, LéAmber",Cecilia Connelly,lib,"185 WOODLAWN AVE., WINNIPEG, MB",automated,49.818163,-97.1306962
+Swan River,r,"TEFFAINE, David",Scott Gray,lib,"297 JOHN FORSYTH RD., WINNIPEG, MB",automated,49.808081,-97.0974112
+Swan River,r,"WIGGINS, Shelley",Andrew Maxwell,ndp,"269 KNOX AVE., MINITONAS, MB",automated,52.083709,-101.0417877
+Swan River,r,"WOWCHUK, Rick",Stan Pacak,pc,"438 12TH AVE. N, SWAN RIVER, MB",automated,52.1129661,-101.2613427
+The Maples,u,"BRAR, Deep",Kris Basco,lib,"7 ELBE RD., WINNIPEG, MB",automated,49.9687734,-97.1719499
+The Maples,u,"GILL, Kiran",Harwinder Gill,gpm,"14 BRIDGEWELL COVE, WINNIPEG, MB",automated,49.9629335,-97.1983463
+The Maples,u,"SANDHU, Aman",Tejinder  Mangat,pc,"2 HERONSWOOD PATH, WINNIPEG, MB",automated,49.9596532,-97.1971595
+The Maples,u,"SANDHU, Mintu",Inderjit Sandhu,ndp,"58 DESNA PLACE, WINNIPEG, MB",automated,49.9658303,-97.1726512
+The Pas-Kameesak,r,"EVANS, Ron",Walter Daudrich,pc,"355 200 CHARLIE ETT’S DRIVE, NORWAY HOUSE, MB",manual/approx,53.928024,-97.866861
+The Pas-Kameesak,r,"BRANDT, Ken",Siddeek Ali,lib,"247 BELL AVE., THE PAS, MB",automated,53.829113,-101.240145
+The Pas-Kameesak,r,"LATHLIN, Amanda",Shannon Goulet,ndp,"729 CONSTANT AVE., THE PAS, MB",automated,53.8184359,-101.250612
+The Pas-Kameesak,r,"MCLEAN, Ralph",Jade Shepherd,gpm,"950 CONSTANT AVE., THE PAS, MB",automated,53.8147881,-101.2519993
+Thompson,r,"ADAMS, Danielle",June Bourguignon,ndp,"1301 MID ROAD, THOMPSON, MB",automated,55.7386383,-97.8699562
+Thompson,r,"BINDLE, Kelly",Milton Goble,pc,"101 QUEENS BAY, THOMPSON, MB",automated,55.7412536,-97.8358649
+Thompson,r,"CONTOIS, Darla",Sideek Ali,lib,"695 WALKER AVE., WINNIPEG, MB",automated,49.8595718,-97.1429027
+Thompson,r,"JEMMETT, Meagan",Justin Fuciarelli,gpm,"91 SAUGER CRES., THOMPSON, MB",automated,55.75236,-97.8835319
+Transcona,u,"ALTOMARE, Nello",Adrian Measner,ndp,"960 PLESSIS RD., WINNIPEG, MB",automated,49.882281,-97.027605
+Transcona,u,"BEKKERING, Dylan",Sam Dixon,lib,"196 EVANSON ST., WINNIPEG, MB",automated,49.883211,-97.170824
+Transcona,u,"YAKIMOSKI, Blair",Mike Watson,pc,"271 EAGLEMERE DR., WINNIPEG, MB",automated,49.9185676,-97.0540153
+Turtle Mountain,r,"NEUFELD, David",Marcel Roberge,gpm,"SE 13-2-21 W, MORTON, MB",manual/approx,49.123984,-100.155941
+Turtle Mountain,r,"DAVIES, Richard",Wendy Bloomfield,lib,"122 PULFORD ST., WINNIPEG, MB",automated,49.8786148,-97.144263
+Turtle Mountain,r,"HERRERA–HILDEBRAND, Angi",Kevin Dearing,ndp,"515 MCMILLAN AVE, WINNIPEG, MB",automated,49.874766,-97.1453817
+Turtle Mountain,r,"PIWNIUK, Doyle",Judy Swanson,pc,"290 CHESTER ST. , VIRDEN, MB",automated,49.8438504,-100.9274087
+Tuxedo,u,"AL–SAHI, Abby",Mohamed Salaam,mf,"170 Hendon Ave., Winnipeg, MB",automated,49.8693341,-97.2568401
+Tuxedo,u,"BRANDSON, Marc",Faye Brandson,lib,"324 BEAVERBROOK ST., WINNIPEG, MB",automated,49.869631,-97.199104
+Tuxedo,u,"COMPTON, Carla",Kevin Dearing,ndp,"626 KENASTON BLVD., WINNIPEG, MB",automated,49.8549242,-97.2066387
+Tuxedo,u,"LAUHN–JENSEN, Kristin",Luisa Sabourin,gpm,"124 CHATAWAY BLVD., WINNIPEG, MB",automated,49.8712393,-97.2127817
+Tuxedo,u,"STEFANSON, Heather",Matthew Pilloud,pc,"118 HANDSART BLVD., WINNIPEG, MB",automated,49.8717988,-97.2171334
+Tyndall Park,u,"KAINTH, Daljit",Deepak Kumar,pc,"1026 CORYDON AVE., WINNIPEG, MB",automated,49.866914,-97.1640649
+Tyndall Park,u,"KOMARNISKI, Frank",Genoveva del Pilar Bustamante Rojas,cpc-m,"240 STRADBROOK AVE., WINNIPEG, MB",automated,49.8801907,-97.1366478
+Tyndall Park,u,"LAMOUREUX, Cindy",Cathy Lamoureux,lib,"6 DOBRINSKY DR., WINNIPEG, MB",automated,49.9427363,-97.1604897
+Tyndall Park,u,"MANN, Fleur",Ruth Domaratzki,gpm,"676 ALVERSTONE ST, WINNIPEG, MB",automated,49.8978008,-97.1701319
+Tyndall Park,u,"MARCELINO, Ted",Noemi Evangelista,ndp,"411 CUMBERLAND AVE., WINNIPEG, MB",automated,49.8973765,-97.1488123
+Union Station,u,"ASAGWARA, Uzoma",Nikolai Bola,ndp,"557 BEVERLEY ST., WINNIPEG, MB",automated,49.8959409,-97.1649233
+Union Station,u,"CUBAS, Elsa",Genoveva del Pilar Bustamante Rojas,cpc-m,"269 DUFFERIN AVE., WINNIPEG, MB",automated,49.9095971,-97.13717
+Union Station,u,"DAVIS, Harold",Thomas Ball,lib,"55 GARRY ST., WINNIPEG, MB",automated,49.8865762,-97.1364334
+Union Station,u,"FAWCETT, Tara",Darrell  Girardin,pc,"99 DESROSIERS DR., WINNIPEG, MB",automated,49.894528,-96.9603904
+Union Station,u,"SHALAY, Andrea",Heather Mack,gpm,"226 BALMORAL ST., WINNIPEG, MB",automated,49.887275,-97.1533428
+Union Station,u,"YAU, James",Xiu Chen,mbfwd,"72 DONALD ST., WINNIPEG, MB",automated,49.8866903,-97.1401478
+Waverley,u,"DUCAS, James",Dirk Hoeppner,gpm,"25 KERSLAKE DR., WINNIPEG, MB",automated,49.8491572,-97.2269087
+Waverley,u,"HAFTANI, Fiona",Wendy Bloomfield,lib,"6 RIVER VALLEY DRIVE, WINNIPEG, MB",automated,49.8290551,-97.0753365
+Waverley,u,"REYES, Jon",Jeff Doneza,pc,"195 FULTON ST., WINNIPEG, MB",automated,49.8124025,-97.083385
+Waverley,u,"ZARGANI, Dashi",Nadya Keerala,ndp,"11 BEACHHAM CRES., WINNIPEG, MB",automated,49.809113,-97.182978
+Wolseley,u,"HENDRICKSON, Eddie",Dion Hendrickson,Ind,"504 Qu’Appelle Ave, Winnipeg, MB",automated,49.8950395,-97.1495392
+Wolseley,u,"HILDEBRAND, Elizabeth",Darrell  Girardin,pc,"2 GLENWOOD BAY, MORDEN, MB",automated,49.1999396,-98.1094042
+Wolseley,u,"NAYLOR, Lisa",Sean Stockwell,ndp,"96 EVANSON ST., WINNIPEG, MB",automated,49.880318,-97.171003
+Wolseley,u,"NICKARZ, David",Pamela Sanford,gpm,"102 SPENCE ST., WINNIPEG, MB",automated,49.88368,-97.15463
+Wolseley,u,"STRONG, Shandi",David  Mintz,lib,"140 WILDWOOD PARK, WINNIPEG, MB",automated,49.848114,-97.127477
