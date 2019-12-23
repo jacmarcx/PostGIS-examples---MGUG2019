@@ -6,7 +6,7 @@
 -- The goal of this exercise is to show basic functions using Postgis, including measuring distance between objects.
 -- The objective below is to find out which politicians live in the riding their are running in, and if they don't
 -- live in their riding, how far do they live away from the nearest boundary.
--- uses Shapefiles: addresses.csv and ed2018.shp (they must be uploaded into a Postgresql database with Postgis extension activated) 
+-- Required files: addresses.csv and ed2018.shp (they must be uploaded into a Postgresql database with Postgis extension activated) 
 
 -- add empty GEOMETRY column to you basic CSV table that contains latitude and longitude
 -- Must use ESPG code 4326 (i.e. WSG84) when converting decimal degrees. Can change CRS later.
