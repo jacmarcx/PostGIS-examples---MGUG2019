@@ -7,6 +7,7 @@
 -- The objective below is to take the Province of Manitoba electoral map, and remove the surface area that
 -- represents major waterways in order to make the map more graphically pleasing and also to make any sort
 -- of spatial analaysis more valid by not including locations that logically cannot contain voters (i.e. the middle of a lake).
+-- uses Shapefiles: water.shp and ed2018.shp (they must be uploaded into a Postgresql database with Postgis extension activated)
 
 
 -- Select all ridings province-wide
