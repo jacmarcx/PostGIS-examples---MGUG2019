@@ -12,7 +12,8 @@ Create a blank database, and then execute the following to initiate PostGIS with
 <b>CREATE EXTENSION postgis;</b><br>
 <br>
 (3)<br>
-Once installed, you need to upload the spatial data and non-spatial data to your postgresql database<br>
+<br>
+Once PostGIS enabled, you need to upload the spatial data and non-spatial data to your postgresql database<br>
 (4)<br>
 From here, you can then use the queries in the repository to test out PostGIS functions<br>
 <br>
