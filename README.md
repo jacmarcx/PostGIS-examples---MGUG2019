@@ -8,12 +8,12 @@ In order to execute these queries, you first need to install Postgresql, along w
 <br>
 (2)<br>
 Create a blank database, and then execute the following to initiate PostGIS within that database to enable the storing of spatial data<br>
--- Enable PostGIS
+-- Enable PostGIS<br>
 <b>CREATE EXTENSION postgis;</b><br>
 <br>
 (3)<br>
-<br>
 Once PostGIS enabled, you need to upload the spatial data and non-spatial data to your postgresql database<br>
+<br>
 (4)<br>
 From here, you can then use the queries in the repository to test out PostGIS functions<br>
 <br>
