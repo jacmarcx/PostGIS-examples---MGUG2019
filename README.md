@@ -20,7 +20,7 @@ From here, you can then use the queries in the repository to test out PostGIS fu
 <b>Exercise 1:</b><br>
 Transform vector data using Postgis
 
-We will see how to take a vector file of electoral bounaries of the province of Manitoba:<br>
+We will see how to take a vector file of electoral boundaries of the province of Manitoba:<br>
 <img src="./images/prov.PNG" width="125"><br>
 
 Then take a vector file of a selection of key waterways:<br>
