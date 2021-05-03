@@ -20,12 +20,12 @@ UPDATE addresses
     SET geom = ST_SetSRID(ST_POINT("longitude"::NUMERIC, "latitude"::NUMERIC),4326)
     
 
--- Get distance from riding for each candidate's home address
+-- Get distance from riding for each candidate's home address, to the nearest border of the polygon representing the riding they are running in.
 -- Home address POINTs are currently not projected (spatial reference identifier "SRID" = 4326, WGS84)
 -- Therefore in order to measure distance in metric measurements, transform CRS on the fly to ESPG 26914
 -- Note: this is not a spatial join. This is an attribute join.
 -- This query will return a table with the candiate's name, party name and distance from their home and the riding they are running in.
--- If the candidate lives inside the riding their are running in distance will be zero.
+-- If the candidate lives inside the riding they are running in distance will be zero.
 SELECT
 	a.candidate,
 	a.party,
