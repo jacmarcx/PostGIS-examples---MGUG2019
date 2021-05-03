@@ -33,7 +33,7 @@ WHERE ed_name IN ('River Heights','Fort Rouge','Fort Garry','Fort Whyte',
 				  'St. James','Tyndall Park','The Maples','Garden City');
           
           
--- Selecy entire water layer
+-- Select entire water layer
 SELECT
 	geom
 FROM water;
