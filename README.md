@@ -31,7 +31,7 @@ And use PostGIS functions to transform the original map by using the water layer
 
 <b>Exercise 2:</b><br>
 Find out which election candidate lives in or out of the riding in which they are running and for those living outside of their riding, how far away are they located.
-Note that the listed home addresses for candidates were published in the Winnipeg Free Press in August 2019 by Elections Manitoba as the per <a href="https://web2.gov.mb.ca/laws/statutes/ccsm/e030e.php">Manitoba Elections Act</a>.
+Note that the listed home addresses for candidates were published in the Winnipeg Free Press in August 2019 by Elections Manitoba as per the <a href="https://web2.gov.mb.ca/laws/statutes/ccsm/e030e.php">Manitoba Elections Act</a>.
 
 The resuting story can be read here:
 https://www.cbc.ca/news/canada/manitoba/manitoba-election-candidate-ridings-1.5267157
